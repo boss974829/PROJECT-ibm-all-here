@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Shoply — Full-Stack E-Commerce (Dockerized)
 
 A complete e-commerce web app: **React (Vite) frontend**, **Node/Express REST API**, and **PostgreSQL** database, all orchestrated with **Docker Compose**.
@@ -126,3 +127,7 @@ npm run dev
 - Change `JWT_SECRET` and Postgres credentials in `docker-compose.yml` before deploying anywhere public.
 - Add HTTPS (e.g. a reverse proxy like Traefik or Caddy in front of Nginx).
 - Consider adding rate limiting, input validation (e.g. Zod/Joi), and a real payment provider integration (Stripe, etc.) — this project uses a mock checkout with no real payment processing.
+=======
+# PROJECT-ibm-all-here
+my all projects aree here
+>>>>>>> debf0367ad123926f0edefa2de3f9576feaf73b7
