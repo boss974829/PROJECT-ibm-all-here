@@ -8,8 +8,6 @@
   <a href="https://project-ibm-all-here-1.onrender.com"><strong>Open the store →</strong></a>
 </p>
 
-FOR LIVE"https://project-ibm-all-here-1.onrender.com"
-
 # Shoply — Full-Stack E-Commerce (Dockerized)
 
 A complete e-commerce web app: **React (Vite) frontend**, **Node/Express REST API**, and **PostgreSQL** database, all orchestrated with **Docker Compose**.
